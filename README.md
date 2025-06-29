@@ -1,4 +1,4 @@
-# Rental Platform
+# Rental Platform # HyprThings
 
 A complete PHP & MySQL-based web application for a **location-based rental platform**. Users can browse, book, and manage vehicle/tool rentals in real-time. Built with clean code, mobile-friendly design using Bootstrap 5, and secured back-end logic.
 
