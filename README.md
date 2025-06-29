@@ -29,10 +29,11 @@ This platform allows users to:
 
 ```bash
 git clone https://github.com/Ankit0101705/Rental_Platform.git
+ 
+#Developer
+Ankit Pal
+GitHub: @Ankit0101705
+LinkedIn: https://www.linkedin.com/in/ankit0101705
 
-## 👤 Developer
 
-**Ankit Pal**  
-GitHub: [@Ankit0101705](https://github.com/Ankit0101705)  
-LinkedIn: [linkedin.com/in/ankit0101705](https://www.linkedin.com/in/ankit0101705)
 
